@@ -1,0 +1,28 @@
+title: Dived By Zero
+email: rf3l@pm.me
+author: rf3l
+
+theme : minima
+
+description: a place for writting security researchs and i wants to break new bounderias 
+
+
+twitter_username: x0rg_
+github_username:  rf3l
+rss: rss
+
+theme: minima
+
+minima:
+  date_format: "%b %-d, %Y"
+
+  header_pages:
+  - _pages/about.md
+
+  include:
+  - _pages
+
+exclude: 
+    - .gitignore
+    - Gemfile
+    - Gemfile.lock
